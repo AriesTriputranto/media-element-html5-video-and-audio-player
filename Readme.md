@@ -2,7 +2,7 @@ Menu<>Pages
 Presentase :_
 == Installation ==
 
-View <a href="https://mediaelementjs.com/">MediaElementjs.com</a> for more information.
+View <a href="https://mediajson.com/">MediaElementjs.com</a> for more information.
 
 1. Upload the `media-element-html5-video-and-audio-player` folder to the `/wp-content/plugins/` directory
 2. Activate the plugin through the `Plugins` menu in WordPress
