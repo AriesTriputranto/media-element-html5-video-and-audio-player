@@ -2,7 +2,7 @@ Menu<>Pages
 Presentase :_
 == Installation ==
 
-View <a href="http://mediaelementjs.com/">MediaElementjs.com</a> for more information.
+View <a href="https://mediaelementjs.com/">MediaElementjs.com</a> for more information.
 
 1. Upload the `media-element-html5-video-and-audio-player` folder to the `/wp-content/plugins/` directory
 2. Activate the plugin through the `Plugins` menu in WordPress
@@ -82,7 +82,7 @@ None
 
 = Where can I find out more? =
 
-Check out <a href="http://mediaelementjs.com/">mediaElementjs.com</a> for more examples
+Check out <a href="https://mediaelementjs.com/">mediaElementjs.com</a> for more examples
 
 = What does this get me over other HTML5 players? =
 
